@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "788867967844",
+    "project_id": "parkey-23234",
+    "storage_bucket": "parkey-23234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788867967844:android:12dc710f43e05b0c656871",
+        "android_client_info": {
+          "package_name": "com.ontech.com.parkey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788867967844-qd7j0e1648qigmn898bapj4jm4kmhmpi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ontech.com.parkey",
+            "certificate_hash": "47029b032ceecee323101c5ed2faed80c6c8f71b"
+          }
+        },
+        {
+          "client_id": "788867967844-ib1f6bsoqad9trd6ehsepeolb825urrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWcjB5OoApQAvqcKf6MYtVNr0e2uCBo8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788867967844-ib1f6bsoqad9trd6ehsepeolb825urrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

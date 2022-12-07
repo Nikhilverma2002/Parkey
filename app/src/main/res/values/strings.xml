@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Parkey</string>
+    <string name="login">Login</string>
+    <string name="full_name">Full name</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_number">Enter Your Number</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="sign_in_with_google">Sign in with google</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="we_will_send_you_an_one_time_password_on_this_mobile_number">We will send you an One time Password on this mobile number</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="conti">Continue</string>
+    <string name="select_who_you_are">Select Who You Are?</string>
+    <string name="verify">Verify</string>
+    <string name="image">image</string>
+</resources>

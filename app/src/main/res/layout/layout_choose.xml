@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:fontFamily="@font/lexend_medium"
+        android:gravity="center"
+
+        android:text="@string/select_who_you_are"
+        android:textColor="#313743"
+        android:textSize="17sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView">
+
+        <com.furkanakdemir.surroundcardview.SurroundCardView
+            android:id="@+id/user"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_card"
+            android:theme="@style/Theme.MaterialComponents.Light"
+            app:cardCornerRadius="12dp"
+            app:layout_constraintEnd_toStartOf="@+id/admin"
+            app:layout_constraintStart_toStartOf="@+id/textView2"
+            app:layout_constraintTop_toBottomOf="@+id/select"
+            app:scv_color="#3C7A79"
+            app:scv_duration="500"
+            app:scv_startPoint="top_start"
+            app:scv_surrounded="false"
+            app:scv_width="0dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:drawablePadding="10dp"
+                android:fontFamily="@font/lexend"
+                android:gravity="start"
+                android:padding="20dp"
+                android:text="User\nPanel"
+                android:textColor="#313743"
+                android:textSize="15sp"
+                app:drawableLeftCompat="@drawable/ic__user_"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+        </com.furkanakdemir.surroundcardview.SurroundCardView>
+
+        <com.furkanakdemir.surroundcardview.SurroundCardView
+            android:id="@+id/facilitator"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/bg_card"
+            android:theme="@style/Theme.MaterialComponents.Light"
+            app:cardCornerRadius="12dp"
+            app:layout_constraintEnd_toStartOf="@+id/admin"
+            app:layout_constraintStart_toStartOf="@+id/textView2"
+            app:layout_constraintTop_toBottomOf="@+id/select"
+            app:scv_color="#3C7A79"
+            app:scv_duration="500"
+            app:scv_startPoint="top_start"
+            app:scv_surrounded="false"
+            app:scv_width="0dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:drawablePadding="10dp"
+                android:fontFamily="@font/lexend"
+                android:gravity="start"
+                android:padding="20dp"
+                android:text="Parking Facilitator"
+                android:textColor="#313743"
+                android:textSize="15sp"
+                app:drawableLeftCompat="@drawable/ic__facilitator"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+        </com.furkanakdemir.surroundcardview.SurroundCardView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/conti"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/box"
+        android:backgroundTint="@color/main_color"
+        android:layout_marginTop="40dp"
+        android:gravity="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout2">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawablePadding="10dp"
+            android:fontFamily="@font/lexend"
+            android:gravity="center"
+            android:padding="13dp"
+            android:text="@string/conti"
+            android:textColor="@color/white"
+            android:textSize="17sp"
+            app:drawableRightCompat="@drawable/ic_right"
+
+
+            app:drawableTint="@color/white" />
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
