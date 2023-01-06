@@ -20,8 +20,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/layoutSearch"
         app:layout_constraintStart_toStartOf="@+id/layoutSearch"
-        app:layout_constraintTop_toBottomOf="@+id/pin_view"
-         />
+        app:layout_constraintTop_toBottomOf="@+id/layoutSearch" />
 
     <LinearLayout
         android:id="@+id/name"
@@ -58,7 +57,6 @@
             android:letterSpacing=".05"
             android:fontFamily="@font/lexend"
             android:hint="@string/enter_your_name"
-            android:maxLength="10"
             android:includeFontPadding="false"
             android:inputType="textPersonName"
             android:padding="5dp"
@@ -146,28 +144,5 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView20" />
-
-    <com.chaos.view.PinView
-        android:id="@+id/pin_view"
-        style="@style/PinWidget.PinView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginTop="30dp"
-        android:cursorVisible="true"
-        android:inputType="number"
-        android:itemBackground="#65EAEAEA"
-        app:cursorColor="@color/black"
-        app:hideLineWhenFilled="true"
-        app:itemCount="6"
-        android:visibility="gone"
-        app:itemHeight="50dp"
-        app:itemRadius="5dp"
-        app:itemWidth="50dp"
-        app:layout_constraintEnd_toEndOf="@+id/layoutSearch"
-        app:layout_constraintStart_toStartOf="@+id/layoutSearch"
-        app:layout_constraintTop_toBottomOf="@+id/layoutSearch"
-        app:lineColor="@color/barn_red"
-        app:lineWidth="1dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

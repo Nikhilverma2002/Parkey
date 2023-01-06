@@ -137,8 +137,6 @@
             android:textColor="@color/white"
             android:textSize="17sp"
             app:drawableRightCompat="@drawable/ic_right"
-
-
             app:drawableTint="@color/white" />
     </LinearLayout>
 

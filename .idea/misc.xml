@@ -3,20 +3,44 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/drawable/bg_border_btn.xml" value="0.2065" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/drawable/bg_btn.xml" value="0.152" />
         <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/drawable/bg_card.xml" value="0.225" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/drawable/bg_circle.xml" value="0.2065" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/drawable/bg_main_card.xml" value="0.1765" />
         <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/drawable/bg_rect.xml" value="0.225" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/drawable/bg_toolbar.xml" value="0.12" />
         <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/drawable/bg_view.xml" value="0.225" />
         <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/drawable/box.xml" value="0.225" />
         <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/drawable/ic__facilitator.xml" value="0.225" />
         <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/drawable/ic__user_.xml" value="0.225" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/drawable/ic_back.xml" value="0.1765" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/drawable/ic_camera.xml" value="0.121" />
         <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/drawable/ic_flag.xml" value="0.225" />
-        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/layout/activity_entry.xml" value="0.25" />
-        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/layout/activity_main.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/drawable/ic_help.xml" value="0.1765" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/drawable/ic_logo.xml" value="0.1765" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/drawable/ic_logout.xml" value="0.1765" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/drawable/ic_mic.xml" value="0.121" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/drawable/ic_policy.xml" value="0.1765" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/drawable/ic_rate.xml" value="0.1765" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/drawable/ic_terms.xml" value="0.1765" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/drawable/item_background_nav_check.xml" value="0.1765" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/drawable/logo.xml" value="0.1765" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/drawable/view_bg.xml" value="0.1765" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/layout/activity_entry.xml" value="0.176" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/layout/activity_user_or_admin.xml" value="0.25" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/layout/fragment_add_vehicle.xml" value="0.2" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/layout/fragment_camera_ocr.xml" value="0.264" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/layout/fragment_frag_home.xml" value="0.25" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/layout/fragment_q_r_scanner.xml" value="0.25" />
         <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/layout/layout_choose.xml" value="0.25" />
-        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/layout/login.xml" value="0.4" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/layout/login.xml" value="0.152" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/layout/nav_header_layout.xml" value="0.1875" />
         <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/layout/notification_layout.xml" value="0.25" />
         <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/layout/otp_verify.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/menu/list.xml" value="0.25" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/Parkey/app/src/main/res/menu/navigation_menu.xml" value="0.24895833333333334" />
       </map>
     </option>
   </component>

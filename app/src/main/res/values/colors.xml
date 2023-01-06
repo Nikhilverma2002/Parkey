@@ -11,6 +11,7 @@
     <color name="main_color2">#FE657E</color>
     <color name="secondary_color">#F9D9A0</color>
     <color name="blue_light">#D7EDFF</color>
+    <color name="black_transparent">#BF756565</color>
 
     <color name="splash_Bg">#ebfffe</color>
     <color name="light_red">#F5DED8</color>
